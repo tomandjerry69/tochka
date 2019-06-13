@@ -33,6 +33,7 @@ Run `install-continue.sh` and you're done! Edit the `settings.json` file to make
 
 ## Troubleshooting
 **Last source code update: June 13th, 2019**
+
 If you want for the source code to be updated, open a new issue or download the new source code and replace the folder. Newer versions not guaranteed to work.
 [Original source code available here.](http://qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/ "Original source code available here.")
 
